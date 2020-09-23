@@ -1,0 +1,41 @@
+Hey There
+
+He is an app I whipped together in about 3 hours. I know that It is a bit shaky at the moment but I'm gonna have some fun features in it soon.
+
+My Idea was that I would get a fully working app that looks just like microsofts notepad. I would then add features to it that would manipulate the progam in a user defined way.
+
+future updates include:
+
+cd tray ejection include
+force windows shut down
+mouse manipulation
+message box design controll
+auto key logger (THE KEY LOGGER WILL REMAIN ACTIVE AFTER THE NOTEPAD IS CLOSED!!)
+
+HOW TO USE
+###############
+
+Load the GloatPad and go to the help menu/about notepad
+here you are given the controll box.
+
+change the options as you see fit (have a play)
+
+the timer is in seconds (you can have values between .1 and 60)
+
+noting will start until the text pad is used.....try it
+
+mail me to tell me your opinions.
+
+mail@nexusjnr.co.uk
+
+legal notice
+this software is by me. dont rip me off please. If you wanna use or sell it mail me and I'll not be miffed..however if you dont ask me, I'll get my munchkin friends to do your knee caps in!!
+
+SHORTCUT KEYS
+#################
+
+ctrl-v (enable GloatPad)
+F5 (goto options box)
+ctrl-e (end application)
+
+when the application goes into fullscreen click the bottom left to turn off application. 
